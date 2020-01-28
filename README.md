@@ -39,7 +39,7 @@ The Investors Intelligence Bull/Bear Ratio
 The Cboe Options Exchange Volatility Index VIX  
 The Cboe Options Exchange  
 Cboe  
-Coronavirus  
+Coronavirus  <--우한폐렴도 회사로 
 Conagra Brands CAG  
 Keurig Dr Pepper KDP  
 Johnson & Johnson JNJ  
