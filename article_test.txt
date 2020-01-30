@@ -1,0 +1,54 @@
+When even Ralph Nader becomes a stock-market commentator, it’s time to turn cautious.
+
+Yes, he’s bearish, but Nader’s recent jump into the fray is a sign the general public has become too enthralled by stocks. This isn’t surprising, given that the S&P 500 SPX, -1.57%   had been hitting new highs since mid-October.
+
+But it’s also troubling, because whenever the stock market hits the crowd’s radar, it can signal that a turn is at hand. Particularly alarming: Most of the crowd is now very bullish. This is a warning sign in the contrarian sense. The problem with excessive bullishness is that when “bad news” comes along — even something as insignificant to the global economy as coronavirus — overconfident investors are caught off guard and surprised. So they sell, which compounds the weakness.
+
+I track a dozen sentiment indicators in my stock newsletter Brush Up on Stocks, and currently virtually all of them are bearish — meaning they show too much bullishness. Here are three examples, which you should learn to track on a regular basis.
+
+• The Investors Intelligence Bull/Bear Ratio, a weekly survey of professional financial advisers, was recently at 3.32. Anything above 3 is a yellow flag, by how I read this gauge. Moves above 4 are a red flag.
+
+• The Cboe Options Exchange Volatility Index VIX, +25.21%  has been trading below 14 for most of the past two weeks. When this “fear gauge” trades below 14, it shows too much bullishness and complacency. It shot up above 14 on Friday as worries about coronavirus mounted, but the signal from the past two weeks is still valid.
+
+The problem with excessive bullishness is that when “bad news” comes along — even something as insignificant to the U.S. economy as coronavirus — overconfident investors are caught off guard and surprised. So they sell, which compounds the weakness.
+
+• The Cboe Options Exchange (Cboe) put/call ratio over the past 10 days is low at 0.75. Any read below 0.85 is excessively bullish, a negative for contrarians like me. Owning puts is a negative bet since they go up in value when the market declines. Owning calls is a bullish bet. So when put buying dries up relative to call buying to this extent, it tells us investors are bullish.
+
+Read: Coronavirus and Mideast tensions aren’t the stock market’s biggest problems this week, strategist warns
+
+Insiders are cautious
+The people with the front-row seats on the economy confirm my cautionary view.
+
+In tracking buying by corporate insiders for my stock letter, I’ve noticed they recently started favoring defensive names over the cyclical and high-beta names that would do better if stock markets moved higher.
+
+Among smart insiders with good records, there’s now a preference for defensive companies like those that sell food and pay dividends. I’ll cite the recent insider buying at Conagra Brands CAG, +0.77%  and Keurig Dr Pepper KDP, -0.04% as well as at other dividend payers like Johnson & Johnson JNJ, +0.29% or real-estate investment trusts like Agree Realty ADC, +0.56%  and Monmouth Real Estate Investment MNR, -0.54%. All all of these names did much better than the market in Friday’s selloff.
+
+Insiders overall are also cautious, too. Sell-buy ratios tracked by Vickers Insider Weekly have risen to bearish heights. “As equities continue to hit all-time highs, contrarian corporate executives, directors and beneficial owners are responding by buying fewer shares and selling more shares,” according the letter.
+
+Your six-point plan
+The combination of very bullish sentiment among investors plus insider bearishness often precedes market turning points. So it’s time to think about doing some or all of the following.
+
+1. Raise cash. You’ll want to have buying power to purchase your favorite stocks at lower levels if a reversal plays out. Do a little selling to raise cash, especially by trimming or getting out of troubling positions you’ve had your doubts about.
+
+2. Avoid margin. Like alcohol, debt can make the good times better and the bad times worse. If we get a market drawdown, you won’t want to be in stocks you’ve purchased with a loan from your friendly brokerage. In a worst-case scenario, you’ll get a margin call that could force you to sell stocks near the bottom. Remember that brokerages dangle more margin in front of you when the market is strong, and then pull it back during drawdowns. So even if you think you might have some cushion now, you might not.
+
+3. Resist joining the crowd. When nearly everyone is bullish, the enthusiasm is contagious. A risk now is that talking heads on CNBC sway you with their overconfidence. Or you’ll get influenced by friends and officemates boasting about gains. It’s important to shut this off and avoid becoming a part of the bullish crowd.
+
+4. Don’t sell out of long-term positions. It does not look like a recession is at hand. Indeed, economists have recently been turning more bullish and upping their estimates for 2020 global growth, as I predicted might be the case during the inverted yield curve panic last summer.
+
+“Should we experience a correction, it would likely be limited in duration and not the end of the bull market,” says Bruce Bittles, the chief investment strategist at Baird.
+
+It’s tough to trade around market declines because you have to get two decisions right — the sale and the buy. And over long stretches of time the market has consistently gone higher, reflecting the cumulative growth in the economy and population. So if you are a long-term investor, don’t get cute. Just stay in.
+
+5. Hedge your portfolio by shorting the market. Exchange-traded funds like ProShares Short S&P 500 SH, +1.53%  and ProShares Short Russell 2000 RWM, +1.16% give you short exposure to the market. These ETFs will go up if the market goes down.
+
+6. Trim or short beta. High-beta stocks are the ones that move up or down more than other stocks. So for more impact, consider shorting these, or at least trimming exposure to them. Technology is a good example of a high-beta group. It might make sense to trim positions in stocks like Apple AAPL, +0.28%, Google GOOG, -2.24% GOOGL, -2.35%  or Amazon.com AMZN, -1.79%  if you own them. Also consider shorting technology via exchange-traded funds like ProShares Short QQQ PSQ, +2.09%, Direxion Daily Technology Bear 3x Shares TECS, +7.07%, ProShares UltraPro Short QQQ SQQQ, +6.17%, Direxion Daily Semiconductor Bear 3x Shares SOXS, +11.58% and ProShares UltraShort Semiconductors SSG, +7.92%. Be careful with the double- or triple-leverage ETFs, since they can get you into trouble faster.
+
+Read: Why the coronavirus outbreak could trigger a stock-market pullback
+
+A market-saving grace
+Over 85% of S&P 500 stocks recently traded above their 200-day moving average, the highest level in more than four years, points out Baird’s Bittles. This is a positive, because broad market participation can be a technical signal portending more gains. If the recent progress on U.S.-China trade negotiations holds, that might boost business confidence and unleash a wave of capital spending, which has been sorely lacking since Donald Trump launched his tariff battle.
+
+This could fuel the next leg up in the stock market.
+
+At the time of publication, Michael Brush had no positions in any stocks mentioned in this column. Brush has suggested CAG, KDP, JNJ, ADC, MNR, GOOGL and AMZN in his stock newsletter Brush Up on Stocks.
