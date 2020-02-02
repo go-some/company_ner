@@ -89,3 +89,10 @@ NYSE   : 3099
 
 <img width="512" alt="스크린샷 2020-02-02 오전 10 56 51" src="https://user-images.githubusercontent.com/10937193/73601796-245cb100-45ab-11ea-8831-0120c1951039.png">
 
+휴먼날짜 -> 스탠다드형식 변환시켜주는 어텐션 모델 테스트 결과 사용못함  
+February 1, 2020 /  12:58 AM / Updated 8 hours ago -> 2000-07-08로 변환
+
+<img width="870" alt="스크린샷 2020-02-02 오전 11 21 26" src="https://user-images.githubusercontent.com/10937193/73601967-53285680-45ae-11ea-96c4-70ebde8f6061.png">
+
+
+뉴스 사이트에 맞는 형식을 하나하나 다 파싱해야할듯.
