@@ -83,3 +83,9 @@ stock ticker와 full name
 
 NASDAQ : 3578개
 NYSE   : 3099
+
+---
+## MongoDB atlas 뉴스데이터 time 파싱 필요
+
+<img width="512" alt="스크린샷 2020-02-02 오전 10 56 51" src="https://user-images.githubusercontent.com/10937193/73601796-245cb100-45ab-11ea-8831-0120c1951039.png">
+
