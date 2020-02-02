@@ -72,7 +72,7 @@ GOOGL
 spaCy로 기업명 추출하는 경우, 보정이 필요한데, 기업명 리스트가 필요하여 찾는중
 NYSE나 나스닥 공시에서 기업명 리스트를 다운로드 받을수 있게 되어있지 않음.
 
-2017년 9월 기업리스트는 찾음.
+2017년 9월 기업리스트는 찾음.(Yahoo Ticker Symbols - September 2017.xlsx)
 
 ---
 
@@ -81,8 +81,8 @@ NYSE와 NASDAQ에 상장된 회사 리스트
 stock ticker와 full name
 
 
-NASDAQ : 3578개
-NYSE   : 3099
+NASDAQ : 3578개  
+NYSE   : 3099  
 
 ---
 ## MongoDB atlas 뉴스데이터 time 파싱 필요
