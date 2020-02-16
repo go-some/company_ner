@@ -101,9 +101,20 @@ February 1, 2020 /  12:58 AM / Updated 8 hours ago -> 2000-07-08로 변환
 ---
 
 ## 기업명 symbol ticker와 미기관이 겹치는 경우도 있음...
-IRS 미 국세청
+IRS 미 국세청 (Internal Revenue Service)
 IRS	Irsa Inversiones Y Representaciones S.A. ;; 룰로 하기 어려움
 
 기업명을 잡기 위해선 두가지 방향이있음.  
 -> 확실한 것만 보여준다 (애매한 것을 추출하지 않는다., 같은 단어에 대해 여러가지 기관의 뜻을 가진 경우등을 제외)  
 -> 불확실해도 보여준다 (클릭해봤더니 미 국세청 기사네?, 커버리지는 넓겠지만 정확도가 낮음.)  
+
+예시 
+https://www.usatoday.com/story/money/2020/01/27/taxes-2020-what-changes-expect-filing-returns/4558347002/  
+이 기사는 구글도 나오고 필립스도 나오고 ISR도 나온다.  
+
+여기서 IRS는 미국세청을 말하는데  
+NYSE에 상장되었다. 이 회사의 국적은 아르헨티나.  
+아르헨티나의 최고의 부동산개발회사인데 NYSE에 상장  
+https://www.google.com/search?safe=strict&sxsrf=ACYBGNRgWz3QObIJsYZCeYiZa2ZoxmyHwg%3A1581828917364&ei=NctIXrHpFY7bhwOH0IXwBw&q=Irsa+Inversiones+Y+Representaciones+s.a+NYSE&oq=Irsa+Inversiones+Y+Representaciones+s.a+NYSE&gs_l=psy-ab.3...16623.21763..21910...0.0..0.149.1269.0j10......0....1..gws-wiz.......35i39i19j0i203j0i30j0i30i19j33i160.Dy_wSQ_aF40&ved=0ahUKEwjx19v1o9XnAhWO7WEKHQdoAX4Q4dUDCAs&uact=5
+
+좋은회사발견 개꿀?
