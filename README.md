@@ -96,3 +96,11 @@ February 1, 2020 /  12:58 AM / Updated 8 hours ago -> 2000-07-08로 변환
 
 
 뉴스 사이트에 맞는 형식을 하나하나 다 파싱해야할듯.
+
+
+---
+
+## 기업명 symbol ticker와 미기관이 겹치는 경우도 있음...
+IRS 미 국세청
+IRS	Irsa Inversiones Y Representaciones S.A. ;; 룰로 하기 어려움
+
