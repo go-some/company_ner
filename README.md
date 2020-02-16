@@ -118,3 +118,15 @@ NYSE에 상장되었다. 이 회사의 국적은 아르헨티나.
 https://www.google.com/search?safe=strict&sxsrf=ACYBGNRgWz3QObIJsYZCeYiZa2ZoxmyHwg%3A1581828917364&ei=NctIXrHpFY7bhwOH0IXwBw&q=Irsa+Inversiones+Y+Representaciones+s.a+NYSE&oq=Irsa+Inversiones+Y+Representaciones+s.a+NYSE&gs_l=psy-ab.3...16623.21763..21910...0.0..0.149.1269.0j10......0....1..gws-wiz.......35i39i19j0i203j0i30j0i30i19j33i160.Dy_wSQ_aF40&ved=0ahUKEwjx19v1o9XnAhWO7WEKHQdoAX4Q4dUDCAs&uact=5
 
 좋은회사발견 개꿀?
+
+
+---
+## 뉴스 문서내 기업명 
+Inc. Corp. Company등이 생략되어 표현되어있는 경우가 많음.  
+
+예시  
+Coca-Cola Company 이지만, 기사내에서 Coca-Cola  
+Lockheed Martin 은 Lockheed로만 표현되는 경우가 있음.  
+National Vision Holdings Inc는 National Vision으로만 표현되는 등..
+
+반대로 General Motors로 시장에 상장되어있어도, 기사에서 General Motors Co등으로 표현하는 경우가 있음... 매우 다양한 패턴스  
